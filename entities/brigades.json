@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "service_id": 8,
+    "local_id": 1,
+    "chef_id": null,
+    "name": "1ère Brigade des Vérifications"
+  },
+  {
+    "id": 2,
+    "service_id": 8,
+    "local_id": 1,
+    "chef_id": null,
+    "name": "2ème Brigade des Vérifications"
+  },
+  {
+    "id": 3,
+    "service_id": 8,
+    "local_id": 1,
+    "chef_id": null,
+    "name": "3ème Brigade des Vérifications"
+  },
+  {
+    "id": 4,
+    "service_id": 9,
+    "local_id": 1,
+    "chef_id": null,
+    "name": "1ère Brigade des Vérifications"
+  },
+  {
+    "id": 5,
+    "service_id": 9,
+    "local_id": 1,
+    "chef_id": null,
+    "name": "2ème Brigade des Vérifications"
+  },
+  {
+    "id": 6,
+    "service_id": 9,
+    "local_id": 1,
+    "chef_id": null,
+    "name": "3ème Brigade des Vérifications"
+  }
+]

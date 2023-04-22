@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "service_id": 10,
+    "local_id": 1,
+    "chef_id": 11,
+    "name": "Bureau des Affaires Judiciaires"
+  },
+  {
+    "id": 2,
+    "service_id": 1,
+    "local_id": 1,
+    "chef_id": 12,
+    "name": "Bureau d' Accueil et de Coordination - Targa"
+  },
+  {
+    "id": 3,
+    "service_id": 1,
+    "local_id": 1,
+    "chef_id": 59,
+    "name": "Bureau des Ressources Humaines"
+  },
+  {
+    "id": 4,
+    "service_id": 1,
+    "local_id": 1,
+    "chef_id": 60,
+    "name": "Bureau du Budget et des Equipements"
+  },
+  {
+    "id": 5,
+    "service_id": 6,
+    "local_id": 9,
+    "chef_id": 61,
+    "name": "Bureau d' Accueil et de Coordination - Safi"
+  },
+  {
+    "id": 6,
+    "service_id": 6,
+    "local_id": 9,
+    "chef_id": null,
+    "name": "Bureau Charge du Controle de Safi"
+  },
+  {
+    "id": 7,
+    "service_id": 6,
+    "local_id": 9,
+    "chef_id": null,
+    "name": "Bureau d'Enregistrement et de Timbre de Safi"
+  },
+  {
+    "id": 8,
+    "service_id": 4,
+    "local_id": 7,
+    "chef_id": null,
+    "name": "Bureau Charge du Controle - Essaouira"
+  },
+  {
+    "id": 9,
+    "service_id": 5,
+    "local_id": 2,
+    "chef_id": null,
+    "name": "Bureau d'Accueil et de Coordination - Allal El Fassi"
+  },
+  {
+    "id": 10,
+    "service_id": 3,
+    "local_id": 1,
+    "chef_id": null,
+    "name": "Bureau d'Enregistrement et du Timbre- Targa"
+  },
+  {
+    "id": 11,
+    "service_id": 4,
+    "local_id": 7,
+    "chef_id": null,
+    "name": "Bureau d'Enregistrement et du Timbre - Essaouira"
+  }
+]

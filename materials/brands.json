@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "62c458e2215fd3f63936b1fa",
+    "title": "HP",
+    "observation": "Hewlett-Packard",
+    "createdAt": "2022-07-05T15:29:38.655Z",
+    "updatedAt": "2022-07-05T15:29:38.655Z",
+    "__v": 0
+  },
+  {
+    "_id": "62c458ee215fd3f63936b1fc",
+    "title": "LEXMARK",
+    "createdAt": "2022-07-05T15:29:50.006Z",
+    "updatedAt": "2022-07-05T15:29:50.006Z",
+    "__v": 0
+  },
+  {
+    "_id": "62c458f3215fd3f63936b1fe",
+    "title": "SAMSUNG",
+    "createdAt": "2022-07-05T15:29:55.788Z",
+    "updatedAt": "2022-07-05T15:29:55.788Z",
+    "__v": 0
+  },
+  {
+    "_id": "62c45901215fd3f63936b200",
+    "title": "DELL",
+    "createdAt": "2022-07-05T15:30:09.220Z",
+    "updatedAt": "2022-07-05T15:30:09.220Z",
+    "__v": 0
+  },
+  {
+    "_id": "63103e9cfb093832b7867ea2",
+    "title": "LENOVO",
+    "createdAt": "2022-09-01T05:09:48.203Z",
+    "updatedAt": "2022-09-01T05:09:48.203Z",
+    "__v": 0
+  }
+]
