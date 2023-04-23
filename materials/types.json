@@ -1,6 +1,6 @@
 [
   {
-    "id": "62c45603215fd3f63936b1ed",
+    "id": 1,
     "title": "PC",
     "photo": "pc",
     "brandCount": 0,
@@ -8,7 +8,7 @@
     "materielCount": 0
   },
   {
-    "id": "62c45610215fd3f63936b1ef",
+    "id": 2,
     "title": "PC Portable",
     "photo": "laptop",
     "brandCount": 0,
@@ -16,7 +16,7 @@
     "materielCount": 0
   },
   {
-    "id": "62c45618215fd3f63936b1f1",
+    "id": 3,
     "title": "Imprimante",
     "photo": "printer",
     "brandCount": 0,
@@ -24,7 +24,7 @@
     "materielCount": 0
   },
   {
-    "id": "62c4561d215fd3f63936b1f3",
+    "id": 4,
     "title": "Scanner",
     "photo": "scanner",
     "brandCount": 0,
